@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-year = 1901
+year= 1901
 residual_day = 1
 
 
